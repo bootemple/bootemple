@@ -7,8 +7,8 @@
 
 ---
 
-- 📚 - Current Graduate Student
-- 💻 - I'm a software developer with a focus on Frontend development & IT
+- 📚 - Current Cybersecurity Graduate Student
+- 💻 - I'm a software developer with a focus on Frontend development & IT Security
 - ☕️ - I’m currently learning **AWS**!
 
 <h3 align="left">Connect with me:</h3>
