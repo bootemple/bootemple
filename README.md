@@ -2,21 +2,19 @@
 
 <hr>
 
-<h1 align="left">Hello World 👋, I'm Chris 🎸</h1>
+<h1 align="left">Hello World 👋</h1>
 <h3 align="left">Developer</h3>
 
 ---
 
-- 📚 - Current Graduate Student.
-- 💻 - I'm a software developer with a focus on Frontend development & IT.
-- ☕️ - I’m currently learning **AWS**.
-
-[comment]: <> (- 📫 - How to reach me: **christophersagold@gmail.com**)
+- 📚 - Current Graduate Student
+- 💻 - I'm a software developer with a focus on Frontend development & IT
+- ☕️ - I’m currently learning **AWS**!
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
 
-<a href="https://www.linkedin.com/in/chrisagold/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="chris agold" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/chrisagold/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="bootemple" height="30" width="40" /></a>
 
 </p>
 
@@ -29,25 +27,25 @@
 
 ---
 
-[comment]: <> (<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chrisagold&theme=solarized-dark&show_icons=true&locale=en&layout=compact" alt="chrisagold" /></p>)
+[comment]: <> (<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bootemple&theme=solarized-dark&show_icons=true&locale=en&layout=compact" alt="bootemple" /></p>)
 
-[comment]: <> (![Chris's github stats]&#40;https://github-readme-stats.vercel.app/api?username=chrisagold&show_icons=true&theme=solarized-dark&#41; )
+[comment]: <> (![Chris's github stats]&#40;https://github-readme-stats.vercel.app/api?username=bootemple&show_icons=true&theme=solarized-dark&#41; )
 
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width="425px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisAgold&theme=solarized-dark&show_icons=true&locale=en&layout=compact" alt="Most used language">
+  <img width="425px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bootemple&theme=solarized-dark&show_icons=true&locale=en&layout=compact" alt="Most used language">
  </a></p>
 
 ---
 
 <p align="center"><a href="https://github.com/anuraghazra/convoychat">
-  <img width="425px" src="https://github-readme-stats.vercel.app/api?username=ChrisAgold&theme=solarized-dark&show_icons=true&locale=en&layout=compact">
+  <img width="425px" src="https://github-readme-stats.vercel.app/api?username=bootemple&theme=solarized-dark&show_icons=true&locale=en&layout=compact">
 </a></p>
 
 ---
 
-[comment]: <> (<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chrisagold&show_icons=true&locale=en" alt="chrisagold" /></p>)
+[comment]: <> (<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bootemple&show_icons=true&locale=en" alt="bootemple" /></p>)
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chrisagold&theme=solarized-dark&hide_border=true" alt="chrisagold" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bootemple&theme=solarized-dark&hide_border=true" alt="bootemple" /></p>
 
 ---
 
@@ -55,4 +53,3 @@ Platform
 <br>
 
 <img src="https://img.shields.io/badge/Macbook Pro 2020-000?logo=apple&logoColor=fff&style=for-the-badge" />
-# bootemple
