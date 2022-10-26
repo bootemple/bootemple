@@ -2,13 +2,13 @@
 
 <hr>
 
-<h1 align="left">Hello World 👋</h1>
-<h3 align="left">Developer</h3>
+<h1 align="left">Hello World I'm Chris 👋</h1>
+<h3 align="left">Software Development IT Cybersecurity</h3>
 
 ---
 
-- 📚 - Current Cybersecurity Graduate Student
-- 💻 - I'm a software developer with a focus on Frontend development & IT Security
+- 📚 - Current Information & Cybersecurity Graduate Student
+- 💻 - I'm a application analyst with a focus on Frontend Development & IT Security
 - ☕️ - I’m currently learning **AWS**!
 
 <h3 align="left">Connect with me:</h3>
@@ -17,6 +17,12 @@
 <a href="https://www.linkedin.com/in/chrisagold/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="bootemple" height="30" width="40" /></a>
 
 </p>
+
+---
+
+<h3 align="center">Certifications:</h3>
+<img src="/img/aws.png" alt="image">
+---
 
 ---
 
