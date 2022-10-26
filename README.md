@@ -1,9 +1,9 @@
-![Github Banner](img/computer-desk.gif)
+![Github Banner](img/viet.gif)
 
 <hr>
 
 <h1 align="left">Hello World I'm Chris 👋</h1>
-<h3 align="left">Software Development IT Cybersecurity</h3>
+<h3 align="left">Software Development - IT - Cybersecurity</h3>
 
 ---
 
@@ -21,7 +21,7 @@
 ---
 
 <h3 align="center">Certifications:</h3>
-<img src="/img/aws.png" alt="AWS Cloud Practitioner" width="130" height="130">
+<img src="/img/aws.png" alt="AWS Cloud Practitioner" width="130" height="130" align="center">
 
 ---
 
