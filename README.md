@@ -21,8 +21,7 @@
 ---
 
 <h3 align="center">Certifications:</h3>
-<img src="/img/aws.png" alt="image">
----
+<img src="/img/aws.png" alt="AWS Cloud Practitioner" width="160" height="160">
 
 ---
 
