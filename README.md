@@ -3,7 +3,7 @@
 <hr>
 
 <h1 align="left">Hello World, I'm Chris 👋</h1>
-<h3 align="left">Software Development - IT - Cybersecurity</h3>
+<h3 align="left">Web Development - IT - Cybersecurity</h3>
 
 ---
 
